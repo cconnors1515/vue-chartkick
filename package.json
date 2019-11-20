@@ -6,8 +6,7 @@
   "module": "dist/vue-chartkick.esm.js",
   "scripts": {
     "build": "rollup -c",
-    "lint": "eslint src",
-    "postinstall": "rollup -c"
+    "lint": "eslint src"
   },
   "license": "MIT",
   "peerDependencies": {
